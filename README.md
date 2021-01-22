@@ -1,6 +1,5 @@
 # Smart-Water-Level-Monitoring-and-Management-System-using-machine-learning
 
-Smart Water Level Monitoring and Management System using machine learning 
 Capstone Project : Group Number 78
 Sanjay Kumar Singh (Project Supervisor)
 Akib Nazeer  
